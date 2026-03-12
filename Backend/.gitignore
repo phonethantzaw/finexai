@@ -1,0 +1,70 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+aibankingassistant/.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
+
+### Logs ###
+*.log
+logs/
+
+### Environment ###
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.staging
+*.env
+application-local.properties
+application-secret.properties
+
+### Cloudflare R2 Secrets ###
+# Never commit CF_ACCOUNT_ID, CF_R2_ACCESS_KEY_ID, CF_R2_SECRET_ACCESS_KEY,
+# CF_R2_BUCKET_NAME, CF_R2_PUBLIC_URL — set via environment variables or .env
+
+### Database ###
+*.db
+*.sqlite
+
+### Testcontainers ###
+.testcontainers/
+
+### API Keys / Secrets ###
+*secret*
+*credentials*
+*.pem
+*.key
+*.p12
+*.jks
