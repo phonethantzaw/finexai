@@ -1,0 +1,13 @@
+Date,Description,Amount,Category,Balance
+2024-01-01,Opening Balance,1000.00,Transfer,1000.00
+2024-01-05,Netflix Subscription,15.99,Entertainment,984.01
+2024-01-07,Starbucks,5.50,Dining,978.51
+2024-01-10,Grocery Store,125.30,Groceries,853.21
+2024-01-12,Amazon Purchase,49.99,Shopping,803.22
+2024-01-15,Salary Deposit,3500.00,Income,4303.22
+2024-01-18,Electric Bill,85.00,Utilities,4218.22
+2024-01-20,Restaurant,75.50,Dining,4142.72
+2024-01-22,Gas Station,45.00,Transportation,4097.72
+2024-01-25,Spotify Subscription,9.99,Entertainment,4087.73
+2024-01-28,Pharmacy,32.50,Healthcare,4055.23
+2024-01-30,ATM Withdrawal,100.00,Cash,3955.23

@@ -1,0 +1,27 @@
+Date,Description,Amount,Category,Balance
+2024-01-01,Opening Balance,2500.00,Transfer,2500.00
+2024-01-02,Whole Foods Market,87.45,Groceries,2412.55
+2024-01-03,Shell Gas Station,52.00,Transportation,2360.55
+2024-01-04,Netflix,15.99,Subscriptions,2344.56
+2024-01-05,Starbucks Coffee,6.75,Dining,2337.81
+2024-01-06,Amazon.com,129.99,Shopping,2207.82
+2024-01-07,AT&T Wireless,85.00,Utilities,2122.82
+2024-01-10,The Cheesecake Factory,95.50,Dining,2027.32
+2024-01-12,Target,156.78,Shopping,1870.54
+2024-01-14,CVS Pharmacy,45.60,Healthcare,1824.94
+2024-01-15,Payroll Deposit,3200.00,Income,5024.94
+2024-01-16,Spotify Premium,10.99,Subscriptions,5013.95
+2024-01-17,PG&E Electric,145.00,Utilities,4868.95
+2024-01-18,Uber Ride,23.50,Transportation,4845.45
+2024-01-19,Trader Joe's,68.90,Groceries,4776.55
+2024-01-20,YouTube Premium,11.99,Subscriptions,4764.56
+2024-01-21,Chipotle Mexican Grill,14.85,Dining,4749.71
+2024-01-22,Home Depot,234.56,Home Improvement,4515.15
+2024-01-23,LA Fitness,29.99,Health & Fitness,4485.16
+2024-01-25,Apple iCloud Storage,2.99,Subscriptions,4482.17
+2024-01-26,Costco Wholesale,187.65,Groceries,4294.52
+2024-01-27,Disney Plus,13.99,Subscriptions,4280.53
+2024-01-28,Dentist - Dr. Smith,175.00,Healthcare,4105.53
+2024-01-29,Chevron Gas Station,48.75,Transportation,4056.78
+2024-01-30,Rent Payment,1800.00,Housing,2256.78
+2024-01-31,Interest Earned,2.15,Interest,2258.93
