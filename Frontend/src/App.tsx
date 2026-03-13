@@ -2,15 +2,13 @@ import { motion } from 'framer-motion';
 import { Sparkles, ArrowRight } from 'lucide-react';
 import { BlurIn } from './components/animations/BlurIn';
 import { SplitText } from './components/animations/SplitText';
-import automationVideo from './assets/automation.mp4';
-
 function App() {
   return (
     <main className="relative h-screen w-full overflow-hidden bg-[#070612] text-white">
       {/* Background Video Layer */}
       <div className="absolute inset-0 z-0 ml-[20px] overflow-hidden">
         <video
-          src={automationVideo}
+          src="/Finex-AI/automation.mp4"
           autoPlay
           loop
           muted

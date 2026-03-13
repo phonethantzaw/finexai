@@ -1,12 +1,10 @@
 import { SignIn } from '@clerk/react';
-import automationVideo from '@/assets/automation.mp4';
-
 export default function LoginPage() {
   return (
     <main className="relative min-h-screen w-full overflow-hidden bg-[#070612] text-white">
       <div className="absolute inset-0 z-0 overflow-hidden">
         <video
-          src={automationVideo}
+          src="/Finex-AI/automation.mp4"
           autoPlay loop muted playsInline
           className="h-full w-full object-cover opacity-60"
         />
